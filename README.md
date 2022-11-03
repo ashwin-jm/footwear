@@ -1,0 +1,8 @@
+![Graph 1](images\graph1.png)
+![Graph 2](images\graph2.png)
+![Graph 3](images\graph3.png)
+![Graph 4](images\graph4.png)
+![Graph 5](images\graph5.png)
+![Graph 6](images\graph6.png)
+![Graph 7](images\graph7.png)
+![Graph 8](images\graph8.png)
