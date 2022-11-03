@@ -1,3 +1,4 @@
+[Link to blog](https://www.blog.datahut.co/post/running-shoe-brands-competitive-analysis-amazon)
 ![Graph 1](graph1.png)
 ![Graph 2](graph2.png)
 ![Graph 3](graph3.png)
